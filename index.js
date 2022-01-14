@@ -1,3 +1,5 @@
+const sum = require('./math/sum.js');
+
 /*
 
 UZDUOTIS:
@@ -21,3 +23,5 @@ Parduotuves suvestine:
 
 */
 
+const rez = sum(5, 7);
+console.log(rez);
