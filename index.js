@@ -20,3 +20,4 @@ Parduotuves suvestine:
 - maksimalus galima parduotuves apyvarta: [total pinigu] [valiuta]
 
 */
+
