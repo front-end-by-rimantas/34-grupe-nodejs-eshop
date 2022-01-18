@@ -53,7 +53,8 @@ const readFile = require("./lib/readFile.js");
         () => { },
         [],
         {},
-        undefined
+        undefined,
+        'masina-wrong-37',
     ];
 
     const goodsInfo = [];
